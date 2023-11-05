@@ -1,10 +1,9 @@
-﻿using System.Net;
-using HybridRedisCache;
+﻿using HybridRedisCache;
+using HybridRedisCacheLoadTest.Repository;
 using LiteDB;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using RedisTest1.Repository;
 
-namespace RedisTest1
+namespace HybridRedisCacheLoadTest
 {
     public class LoadTest
     {

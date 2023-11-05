@@ -1,7 +1,7 @@
 ﻿using HybridRedisCache;
 using StackExchange.Redis;
 
-namespace RedisTest1
+namespace HybridRedisCacheLoadTest
 {
     public static class ConnectionBuilder
     {

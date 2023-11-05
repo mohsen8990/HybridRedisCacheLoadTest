@@ -1,6 +1,6 @@
 ﻿using HybridRedisCache;
 
-namespace RedisTest1.Repository
+namespace HybridRedisCacheLoadTest.Repository
 {
     public class HybridCacheRepository : IRepository
     {

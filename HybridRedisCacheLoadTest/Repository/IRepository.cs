@@ -1,4 +1,4 @@
-﻿namespace RedisTest1.Repository
+﻿namespace HybridRedisCacheLoadTest.Repository
 {
     public interface IRepository
     {

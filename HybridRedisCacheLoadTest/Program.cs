@@ -1,4 +1,4 @@
-﻿using RedisTest1;
+﻿using HybridRedisCacheLoadTest;
 
 public class Program
 {
